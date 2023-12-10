@@ -1,4 +1,4 @@
-Country/Territory,Median ages in years.1
+Country,Median ages in years.1
 Afghanistan,19.5
 Albania,34.3
 Algeria,28.9
@@ -63,7 +63,7 @@ El Salvador,27.7
 Equatorial Guinea,20.3
 Eritrea,20.3
 Estonia,43.7
-Eswatini (Swaziland),23.7
+Eswatini,23.7
 Ethiopia,19.8
 European Union,44.0
 Faroe Islands,37.2
@@ -73,7 +73,7 @@ France,41.7
 French Polynesia,33.3
 Gabon,21.0
 The Gambia,21.8
-Palestine (Gaza Strip),18.0
+Palestine,18.0
 Georgia,38.6
 Germany,47.8
 Ghana,21.4
@@ -223,9 +223,9 @@ Venezuela,30.0
 Vietnam,31.9
 Virgin Islands,41.8
 Wallis and Futuna,34.0
-Palestine (West Bank),21.9
-Western Sahara (2018 & 2019 estimates),21.5
+,21.9
+Western Sahara,21.5
 World,31.0
-Yemen (2016 & 2018 estimates),19.8
+Yemen,19.8
 Zambia,16.9
 Zimbabwe,20.5

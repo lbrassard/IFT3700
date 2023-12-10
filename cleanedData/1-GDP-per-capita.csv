@@ -1,4 +1,4 @@
-Country/Territory,UN
+Country,UN
 Monaco,234317.0
 Liechtenstein,169260.0
 Luxembourg,133745.0
@@ -40,7 +40,7 @@ Malta,33642.0
 Italy,35579.0
 Puerto Rico,32716.0
 New Caledonia,34994.0
-Sint Maarten (Dutch part),26199.0
+Sint Maarten,26199.0
 Guam,
 Aruba,29342.0
 Cyprus,32281.0
@@ -62,7 +62,7 @@ Latvia,21267.0
 Slovakia,21390.0
 Greece,20571.0
 Poland,17736.0
-Saint Martin (French part),
+Saint Martin,
 Barbados,17225.0
 Uruguay,17313.0
 Oman,19509.0

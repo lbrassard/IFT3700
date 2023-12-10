@@ -1,4 +1,4 @@
-Country (or territory),CIA[2][3]
+Country,CIA[2][3]
 Afghanistan,2.26
 Albania,0.19
 Algeria,1.27
@@ -56,7 +56,7 @@ El Salvador,0.46
 Equatorial Guinea,3.36
 Eritrea,1.08
 Estonia,-0.74
-Eswatini (Swaziland),0.72
+Eswatini,0.72
 Ethiopia,2.42
 Fiji,0.42
 Finland,0.22
@@ -191,50 +191,50 @@ Vanuatu,1.59
 Vatican City,0.0
 Venezuela,2.4
 Vietnam,0.93
-Western Sahara (Sahrawi),
+Western Sahara,
 Yemen,1.83
 Zambia,2.86
 Zimbabwe,1.95
-Anguilla (UK),1.77
-Aruba (Netherlands),1.11
-Bermuda (UK),0.32
+Anguilla,1.77
+Aruba,1.11
+Bermuda,0.32
 Caribbean Netherlands,
-Cayman Islands (UK),1.79
-Channel Islands (UK)[e],
-Christmas Island (Australia),1.11
-Cook Islands (NZ),-2.31
-Curaçao (Netherlands),
-Faroe Islands (Denmark),0.63
+Cayman Islands,1.79
+Channel Islands[e],
+Christmas Island,1.11
+Cook Islands,-2.31
+Curaçao,
+Faroe Islands,0.63
 Falkland Islands,0.01
-Gibraltar (UK),0.19
-Greenland (Denmark),-0.04
-Guadeloupe (France),
-Guam (USA),0.13
+Gibraltar,0.19
+Greenland,-0.04
+Guadeloupe,
+Guam,0.13
 French Guiana,
 Hong Kong,0.15
-Isle of Man (UK),0.48
+Isle of Man,0.48
 Kosovo,0.62
 Macau,0.71
-Martinique (France),
-Mayotte (France),
-Montserrat (UK),0.46
-New Caledonia (France),1.17
-Niue (New Zealand),-0.03
-Norfolk Island (Australia),0.01
-Northern Mariana Islands (USA),-0.35
-Pitcairn Islands (UK),0.0
+Martinique,
+Mayotte,
+Montserrat,0.46
+New Caledonia,1.17
+Niue,-0.03
+Norfolk Island,0.01
+Northern Mariana Islands,-0.35
+Pitcairn Islands,0.0
 French Polynesia,0.7
-Puerto Rico (USA),-1.29
-Réunion (France),
-"Saint Helena, Ascension and Tristan da Cunha (UK)",0.11
-Saint Pierre and Miquelon (France),-1.19
+Puerto Rico,-1.29
+Réunion,
+"Saint Helena, Ascension and Tristan da Cunha",0.11
+Saint Pierre and Miquelon,-1.19
 American Samoa,-1.74
-Sint Maarten (Netherlands),1.19
-Svalbard (Norway),-0.03
-Tokelau (NZ),-0.01
-Turks and Caicos Islands (UK),1.81
+Sint Maarten,1.19
+Svalbard,-0.03
+Tokelau,-0.01
+Turks and Caicos Islands,1.81
 British Virgin Islands,1.87
 U.S. Virgin Islands,-0.49
-Wallis and Futuna (France),0.23
+Wallis and Futuna,0.23
 West Bank,1.66
 Gaza Strip,1.99

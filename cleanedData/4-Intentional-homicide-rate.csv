@@ -1,4 +1,4 @@
-Location,Victims-per-100000-habitants
+Country,Victims-per-100000-habitants
 Afghanistan,1613
 Albania,66
 Algeria,695
@@ -84,7 +84,7 @@ Indonesia,1419
 Iran,1936
 Iraq,3339
 Iraq. Central Iraq,5459
-Iraq (Kurdistan Region),111
+,111
 Ireland,22
 Isle of Man,0
 Israel,173

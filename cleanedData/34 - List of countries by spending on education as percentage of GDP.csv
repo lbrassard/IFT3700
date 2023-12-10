@@ -1,6 +1,6 @@
-﻿Country or subnational area,Expenditure on education (% of GDP)
+Country,Expenditure on education (% of GDP)
 Afghanistan,4.1
-Albania,4
+Albania,4.0
 Algeria,4.3
 Andorra,3.2
 Angola,3.5
@@ -12,12 +12,12 @@ Austria,5.5
 Azerbaijan,2.5
 Bahamas,2.8
 Bahrain,2.3
-Bangladesh,2
+Bangladesh,2.0
 Barbados,4.7
 Belarus,4.8
 Belgium,6.5
 Belize,7.4
-Benin,4
+Benin,4.0
 Bhutan,6.6
 Bolivia,7.3
 Bosnia and Herzegovina,
@@ -34,7 +34,7 @@ Canada,5.5
 Central African Republic,1.2
 Chad,2.9
 Chile,5.4
-China,4
+China,4.0
 Colombia,4.5
 Comoros,2.5
 Congo,4.6
@@ -49,7 +49,7 @@ Denmark,7.6
 Djibouti,8.4
 Dominica,3.4
 Dominican Republic,4.3
-Ecuador,5
+Ecuador,5.0
 Egypt,3.8
 El Salvador,3.8
 Equatorial Guinea,0.6
@@ -72,13 +72,13 @@ Guinea,2.2
 Guinea-Bissau,2.1
 Guyana,6.3
 Haiti,2.5
-Honduras,6
+Honduras,6.0
 Hong Kong,3.3
 Hungary,4.7
 Iceland,7.5
 India,2.9
 Indonesia,3.6
-"Iran, Islamic Republic of",4
+"Iran, Islamic Republic of",4.0
 Iraq,3.5
 Ireland,3.7
 Israel,5.8
@@ -88,7 +88,7 @@ Japan,3.6
 Jordan,3.6
 Kazakhstan,2.8
 Kenya,5.2
-Kiribati,12
+Kiribati,12.0
 Kuwait,3.8
 Kyrgyzstan,6.1
 Lao People's Democratic Republic,2.9
@@ -98,11 +98,11 @@ Lesotho,6.5
 Liberia,2.3
 Libya,2.3
 Liechtenstein,2.1
-Lithuania,4
-Luxembourg,4
+Lithuania,4.0
+Luxembourg,4.0
 Macao,2.7
 Madagascar,2.8
-Malawi,4
+Malawi,4.0
 Malaysia,4.7
 Maldives,4.1
 Mali,3.1
@@ -129,7 +129,7 @@ Niger,3.5
 Nigeria,5.94
 North Korea,
 North Macedonia,3.3
-Norway,8
+Norway,8.0
 Oman,6.8
 Pakistan,2.9
 Palau,7.6
@@ -154,7 +154,7 @@ San Marino,3.2
 Sao Tome and Principe,4.9
 Saudi Arabia,5.6
 Senegal,4.8
-Serbia,4
+Serbia,4.0
 Seychelles,4.4
 Sierra Leone,4.6
 Singapore,2.9
@@ -177,12 +177,12 @@ Tajikistan,5.2
 Tanzania,3.4
 Thailand,4.1
 Timor-Leste,3.8
-Togo,5
+Togo,5.0
 Tonga,3.9
 Trinidad and Tobago,3.1
 Tunisia,6.6
 Turkey,4.4
-Turkmenistan,3
+Turkmenistan,3.0
 Tuvalu,3.7
 Uganda,2.6
 Ukraine,5.4

@@ -1,4 +1,4 @@
-Country or area,Internet users
+Country,Internet users
 China,1089140000
 India,881250000
 United States,311300000
@@ -102,7 +102,7 @@ Moldova,3083783
 Burkina Faso,3047909
 Honduras,2977793
 Croatia,2811056
-Puerto Rico (U.S.),2664928
+Puerto Rico,2664928
 Rwanda,2657770
 Malawi,2566126
 Qatar,2532059
@@ -174,7 +174,7 @@ French Polynesia,205746
 Central African Republic,202204
 Belize,176400
 Guam,132221
-Aruba (Netherlands),102285
+Aruba,102285
 Saint Lucia,90889
 Antigua and Barbuda,77529
 Andorra,76095
